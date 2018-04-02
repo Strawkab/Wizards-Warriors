@@ -1,2 +1,2 @@
 # Wizards-Warriors
-D&amp;D like text based game for school
+D&amp;D like text based adventure game
