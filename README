@@ -1,0 +1,9 @@
+Welcome to Wizards and Warriors! Try to get to the end of the dungeon.
+
+CONTROLS IN CHARACTER BUILDING:
+Before every choice, you are prompted to enter in a question mark (?). This will
+display the ingame help file for that specific choice. You can just press (RET)
+if you want to skip it.
+
+When choosing your stats, please input the index of the list. Meaning in the list [6, 4, 9],
+if you want to choose 4 you would input 1.
